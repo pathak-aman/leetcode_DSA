@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/pathak-aman/leetcode_DSA/tree/master/0057-insert-interval) |
 | [0435-non-overlapping-intervals](https://github.com/pathak-aman/leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [1962-single-threaded-cpu](https://github.com/pathak-aman/leetcode_DSA/tree/master/1962-single-threaded-cpu) |
 ## Sorting
