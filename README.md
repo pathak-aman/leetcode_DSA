@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/pathak-aman/leetcode_DSA/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/pathak-aman/leetcode_DSA/tree/master/1036-rotting-oranges) |
 | [1962-single-threaded-cpu](https://github.com/pathak-aman/leetcode_DSA/tree/master/1962-single-threaded-cpu) |
+| [2350-find-closest-number-to-zero](https://github.com/pathak-aman/leetcode_DSA/tree/master/2350-find-closest-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
