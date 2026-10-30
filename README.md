@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/pathak-aman/leetcode_DSA/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/pathak-aman/leetcode_DSA/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -82,8 +83,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/pathak-aman/leetcode_DSA/tree/master/0801-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/pathak-aman/leetcode_DSA/tree/master/0801-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/pathak-aman/leetcode_DSA/tree/master/0801-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/pathak-aman/leetcode_DSA/tree/master/0801-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/pathak-aman/leetcode_DSA/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
