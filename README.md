@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/pathak-aman/leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pathak-aman/leetcode_DSA/tree/master/0057-insert-interval) |
+| [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pathak-aman/leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/pathak-aman/leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/pathak-aman/leetcode_DSA/tree/master/0658-find-k-closest-elements) |
@@ -49,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/pathak-aman/leetcode_DSA/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/pathak-aman/leetcode_DSA/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
 |  |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/pathak-aman/leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
