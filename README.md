@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/pathak-aman/leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [1028-interval-list-intersections](https://github.com/pathak-aman/leetcode_DSA/tree/master/1028-interval-list-intersections) |
 ## Line Sweep
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pathak-aman/leetcode_DSA/tree/master/0207-course-schedule) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
