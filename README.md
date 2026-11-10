@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/pathak-aman/leetcode_DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pathak-aman/leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/pathak-aman/leetcode_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/pathak-aman/leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/pathak-aman/leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [1028-interval-list-intersections](https://github.com/pathak-aman/leetcode_DSA/tree/master/1028-interval-list-intersections) |
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0344-reverse-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/pathak-aman/leetcode_DSA/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/pathak-aman/leetcode_DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
