@@ -18,7 +18,7 @@ class Solution:
 
         for i in range(n):
             total += nums[i]
-            prefix_mod = total % k
+            prefix_mod = ((total % k) + k) % k
 
             if prefix_mod in prefix_mod_count:
                 count += prefix_mod_count[prefix_mod]
