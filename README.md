@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/pathak-aman/leetcode_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/pathak-aman/leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/pathak-aman/leetcode_DSA/tree/master/0658-find-k-closest-elements) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/pathak-aman/leetcode_DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/pathak-aman/leetcode_DSA/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/pathak-aman/leetcode_DSA/tree/master/1036-rotting-oranges) |
 | [1962-single-threaded-cpu](https://github.com/pathak-aman/leetcode_DSA/tree/master/1962-single-threaded-cpu) |
@@ -133,4 +134,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pathak-aman/leetcode_DSA/tree/master/0303-range-sum-query-immutable) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/pathak-aman/leetcode_DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+## Hash Table
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/pathak-aman/leetcode_DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
