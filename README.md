@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/pathak-aman/leetcode_DSA/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pathak-aman/leetcode_DSA/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/pathak-aman/leetcode_DSA/tree/master/0801-is-graph-bipartite) |
@@ -152,11 +153,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -168,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/pathak-aman/leetcode_DSA/tree/master/0412-fizz-buzz) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/pathak-aman/leetcode_DSA/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/pathak-aman/leetcode_DSA/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
