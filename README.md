@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pathak-aman/leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/pathak-aman/leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pathak-aman/leetcode_DSA/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/pathak-aman/leetcode_DSA/tree/master/0064-minimum-path-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pathak-aman/leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/pathak-aman/leetcode_DSA/tree/master/0658-find-k-closest-elements) |
@@ -150,11 +152,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃ¢ÂÂMoore String-Search Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
