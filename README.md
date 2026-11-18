@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/pathak-aman/leetcode_DSA/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/pathak-aman/leetcode_DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/pathak-aman/leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/pathak-aman/leetcode_DSA/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/pathak-aman/leetcode_DSA/tree/master/1962-single-threaded-cpu) |
 | [2350-find-closest-number-to-zero](https://github.com/pathak-aman/leetcode_DSA/tree/master/2350-find-closest-number-to-zero) |
 ## Sorting
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pathak-aman/leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/pathak-aman/leetcode_DSA/tree/master/0658-find-k-closest-elements) |
+| [1753-path-with-minimum-effort](https://github.com/pathak-aman/leetcode_DSA/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/pathak-aman/leetcode_DSA/tree/master/1962-single-threaded-cpu) |
 ## Dynamic Programming
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/pathak-aman/leetcode_DSA/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/pathak-aman/leetcode_DSA/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/pathak-aman/leetcode_DSA/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/pathak-aman/leetcode_DSA/tree/master/1753-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pathak-aman/leetcode_DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pathak-aman/leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/pathak-aman/leetcode_DSA/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/pathak-aman/leetcode_DSA/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/pathak-aman/leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/pathak-aman/leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/pathak-aman/leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/pathak-aman/leetcode_DSA/tree/master/1753-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pathak-aman/leetcode_DSA/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/pathak-aman/leetcode_DSA/tree/master/0801-is-graph-bipartite) |
+| [1753-path-with-minimum-effort](https://github.com/pathak-aman/leetcode_DSA/tree/master/1753-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pathak-aman/leetcode_DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pathak-aman/leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/pathak-aman/leetcode_DSA/tree/master/0801-is-graph-bipartite) |
+| [1753-path-with-minimum-effort](https://github.com/pathak-aman/leetcode_DSA/tree/master/1753-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -160,11 +167,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pathak-aman/leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -186,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/pathak-aman/leetcode_DSA/tree/master/0110-balanced-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pathak-aman/leetcode_DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/pathak-aman/leetcode_DSA/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
